@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/every-welfare/static/css/main.2902e82c.chunk.css",
+    "main.js": "/every-welfare/static/js/main.b5e04002.chunk.js",
+    "main.js.map": "/every-welfare/static/js/main.b5e04002.chunk.js.map",
+    "runtime-main.js": "/every-welfare/static/js/runtime-main.0db451fb.js",
+    "runtime-main.js.map": "/every-welfare/static/js/runtime-main.0db451fb.js.map",
+    "static/js/2.b182ced2.chunk.js": "/every-welfare/static/js/2.b182ced2.chunk.js",
+    "static/js/2.b182ced2.chunk.js.map": "/every-welfare/static/js/2.b182ced2.chunk.js.map",
+    "index.html": "/every-welfare/index.html",
+    "static/css/main.2902e82c.chunk.css.map": "/every-welfare/static/css/main.2902e82c.chunk.css.map",
+    "static/js/2.b182ced2.chunk.js.LICENSE.txt": "/every-welfare/static/js/2.b182ced2.chunk.js.LICENSE.txt",
+    "static/media/bot2.dd930ee4.png": "/every-welfare/static/media/bot2.dd930ee4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0db451fb.js",
+    "static/js/2.b182ced2.chunk.js",
+    "static/css/main.2902e82c.chunk.css",
+    "static/js/main.b5e04002.chunk.js"
+  ]
+}
